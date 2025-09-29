@@ -36,8 +36,7 @@ dic = {"a":2, 4:"bcd", "c":"Hello World"}
 print(dic[4])
 print(dic["c"])
 
-#
-dict = {}
+#dict = {}
 
 dict["firstname"] = "Uzu"
 dict["lastname"] = "Regendorf"
